@@ -1,0 +1,36 @@
+[
+    {
+        "name": "Tachiyomi: Doujindesu",
+        "pkg": "eu.kanade.tachiyomi.extension.all.Doujindesu",
+        "apk": "tachiyomi-all.Doujindesu-v1.4.3.apk",
+        "lang": "all",
+        "code": 3,
+        "version": "1.4.3",
+        "nsfw": 0,
+        "sources":[
+            {
+                "name": "Doujindesu",
+                "lang": "en",
+                "id": "5421383187922044761",
+                "baseUrl": "https://doujindesu.tv/"
+            }
+        ]
+    },
+    {
+        "name": "Tachiyomi: Manhwaland",
+        "pkg": "eu.kanade.tachiyomi.extension.all.Manhwaland",
+        "apk": "tachiyomi-all.Manhwalnd-v1.4.3.apk",
+        "lang": "all",
+        "code": 4,
+        "version": "1.4.3",
+        "nsfw": 0,
+        "sources":[
+            {
+                "name": "Manhwaland",
+                "lang": "en",
+                "id": "5421383187922044761",
+                "baseUrl": "https://manhwalaand.ink/"
+            }
+        ]
+    }
+]
